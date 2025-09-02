@@ -1,2 +1,2 @@
-# orkestratum
-Orkestratum: An Orthogonal Runtime Kernel for the Cloud
+# Orkestratum
+An Orthogonal Runtime Kernel for the Cloud
